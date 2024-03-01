@@ -2,7 +2,7 @@ import { TestBed } from "@angular/core/testing";
 import { HeroService } from "./hero.service";
 import { MessageService } from "./message.service";
 
-describe('MessageService', () => {
+describe('MessageService Hooks', () => {
   let service: MessageService;
 
   beforeEach(() => {
